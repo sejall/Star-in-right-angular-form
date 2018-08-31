@@ -1,0 +1,1 @@
+# Star-in-right-angular-form
